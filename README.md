@@ -1,2 +1,3 @@
-# comserv.cl
-Página web informativa creada con vue3
+# ChusquitaWeb
+## 💍Tecnologías propuestas
+Vue3
